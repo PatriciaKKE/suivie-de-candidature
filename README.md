@@ -21,3 +21,6 @@ Associer et consulter le CV envoyé (adapté à chaque offre).
 -Upload sécurisé des documents (CV adapté).
 
 - Rappels de relance, synchronisation calendrier (iCal/Google)
+
+
+https://chatgpt.com/share/690b23df-b58c-800f-81c9-79604a50653f
