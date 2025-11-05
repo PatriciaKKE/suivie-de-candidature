@@ -6,7 +6,7 @@ Associer et consulter le CV envoyé (adapté à chaque offre).
 
 -Suivre l’historique et les étapes d’entretien.
 
--Avec pour fonctionnalités
+-Avec pour fonctionnalités:
 
  -Création / édition d’une fiche de poste (lien source).
 
